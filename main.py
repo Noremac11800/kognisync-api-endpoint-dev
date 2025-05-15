@@ -34,9 +34,9 @@ fake_users_db = {
         "email": "chris",
         "password": "1234" # TODO: hash this
     },
-    "rick": {
+    "arkay": {
         "id": 3,
-        "email": "rick",
+        "email": "arkay",
         "password": "1234" # TODO: hash this
     }
 }
